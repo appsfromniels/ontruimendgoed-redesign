@@ -456,7 +456,7 @@ p:last-child {
     align-items: center;
     min-height: 70vh;
     background: linear-gradient(135deg, rgba(26, 58, 52, 0.4) 0%, rgba(13, 31, 28, 0.5) 100%),
-                url('../assets/ontruimendgoed_header_foto.webp') center center / cover no-repeat;
+                url('assets/ontruimendgoed_header_foto.webp') center center / cover no-repeat;
     overflow: hidden;
 }
 
