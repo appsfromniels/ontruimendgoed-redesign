@@ -1,0 +1,17 @@
+<svg width="200" height="60" viewBox="0 0 200 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- House icon with arrow -->
+  <g transform="translate(0, 10)">
+    <!-- House outline -->
+    <path d="M20 10 L30 2 L40 10 L40 38 L20 38 Z" stroke="#2DA89D" stroke-width="2" fill="none"/>
+    <!-- Roof -->
+    <path d="M18 12 L30 2 L42 12" stroke="#2DA89D" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <!-- Arrow down -->
+    <path d="M30 12 L30 28 M25 23 L30 28 L35 23" stroke="#2DA89D" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <!-- ONTRUIMEND text -->
+  <text x="65" y="28" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1a1a1a" letter-spacing="1">ONTRUIMEND</text>
+
+  <!-- GOED text -->
+  <text x="65" y="45" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2DA89D" letter-spacing="1">GOED</text>
+</svg>
