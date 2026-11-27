@@ -227,6 +227,15 @@ p:last-child {
     justify-content: space-between;
     height: 80px;
     gap: var(--space-lg);
+    padding-top: var(--space-md);
+    padding-bottom: var(--space-md);
+}
+
+@media (min-width: 768px) {
+    .header-inner {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
 }
 
 .logo {
